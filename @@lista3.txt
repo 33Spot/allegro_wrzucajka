@@ -1,0 +1,712 @@
+folder=czarny_top_dolce_-_Gabana
+mkdir $folder
+cp IMG_7393.JPG $pwd $folder
+cp IMG_7394.JPG $pwd $folder
+cp IMG_7395.JPG $pwd $folder
+cp IMG_7398.JPG $pwd $folder
+folder=sweter_esprit
+mkdir $folder
+cp IMG_7459.JPG $pwd $folder
+folder=bluza_polo_sport_lauren
+mkdir $folder
+cp IMG_7671.JPG $pwd $folder
+cp IMG_7675.JPG $pwd $folder
+cp IMG_7676.JPG $pwd $folder
+folder=rajstopki_kenzo
+mkdir $folder
+cp IMG_7661.JPG $pwd $folder
+cp IMG_7658.JPG $pwd $folder
+cp IMG_7659.JPG $pwd $folder
+cp IMG_7668.JPG $pwd $folder
+cp IMG_7663.JPG $pwd $folder
+folder=spodnica_plus_gap
+mkdir $folder
+cp IMG_7679.JPG $pwd $folder
+cp IMG_7686.JPG $pwd $folder
+cp IMG_7688.JPG $pwd $folder
+cp IMG_7689.JPG $pwd $folder
+folder=polboty_ecco
+mkdir $folder
+cp IMG_7524.JPG $pwd $folder
+cp IMG_7526.JPG $pwd $folder
+cp IMG_7527.JPG $pwd $folder
+cp IMG_7528.JPG $pwd $folder
+folder=buciki_good_guy
+mkdir $folder
+cp IMG_7505.JPG $pwd $folder
+cp IMG_7508.JPG $pwd $folder
+cp IMG_7509.JPG $pwd $folder
+cp IMG_7510.JPG $pwd $folder
+folder=zestaw_na_zime_bluza_gap_i_spodnie
+mkdir $folder
+cp IMG_7383.JPG $pwd $folder
+cp IMG_7384.JPG $pwd $folder
+cp IMG_7385.JPG $pwd $folder
+cp IMG_7386.JPG $pwd $folder
+cp IMG_7387.JPG $pwd $folder
+folder=spodenki_ralph_lauren
+mkdir $folder
+cp IMG_7591.JPG $pwd $folder
+cp IMG_7587.JPG $pwd $folder
+cp IMG_7585.JPG $pwd $folder
+cp IMG_7582.JPG $pwd $folder
+cp IMG_7580.JPG $pwd $folder
+folder=bluzeczka_ralph_lauren
+mkdir $folder
+cp IMG_7560.JPG $pwd $folder
+cp IMG_7556.JPG $pwd $folder
+cp IMG_7557.JPG $pwd $folder
+folder=granatowy_golf_tommy_hilfiger
+mkdir $folder
+cp IMG_7563.JPG $pwd $folder
+cp IMG_7566.JPG $pwd $folder
+folder=sandalki_prada
+mkdir $folder
+cp IMG_7474.JPG $pwd $folder
+cp IMG_7477.JPG $pwd $folder
+cp IMG_7478.JPG $pwd $folder
+cp IMG_7482.JPG $pwd $folder
+folder=VERSACE_-_Plecak
+mkdir $folder
+cp IMG_7832.JPG $pwd $folder
+cp IMG_7847.JPG $pwd $folder
+cp IMG_7843.JPG $pwd $folder
+cp IMG_7837.JPG $pwd $folder
+cp IMG_7835.JPG $pwd $folder
+cp IMG_7873.JPG $pwd $folder
+folder=CHRISTIAN_DIOR_-_Czapka
+mkdir $folder
+cp IMG_7863.JPG $pwd $folder
+cp IMG_7864.JPG $pwd $folder
+cp IMG_7869.JPG $pwd $folder
+cp IMG_7871.JPG $pwd $folder
+cp IMG_7872.JPG $pwd $folder
+folder=GAP_-__sukieneczka
+mkdir $folder
+cp IMG_7887.JPG $pwd $folder
+cp IMG_7900.JPG $pwd $folder
+cp IMG_7901.JPG $pwd $folder
+cp IMG_7910.JPG $pwd $folder
+cp IMG_0463.JPG $pwd $folder
+folder=RALPH_LAUREN_-__bluza
+mkdir $folder
+cp IMG_7927.JPG $pwd $folder
+cp IMG_7918.JPG $pwd $folder
+cp IMG_7921.JPG $pwd $folder
+folder=TOMMY_HILFIGER_-_Bluza
+mkdir $folder
+cp IMG_7933.JPG $pwd $folder
+cp IMG_7940.JPG $pwd $folder
+cp IMG_7935.JPG $pwd $folder
+cp IMG_7934.JPG $pwd $folder
+folder=GAP_-_Bluzeczka_granatowa
+mkdir $folder
+cp IMG_7962.JPG $pwd $folder
+cp IMG_7961.JPG $pwd $folder
+folder=RALPH_LAUREN__-__spodenki_sztruks
+mkdir $folder
+cp IMG_7977.JPG $pwd $folder
+cp IMG_7980.JPG $pwd $folder
+cp IMG_7981.JPG $pwd $folder
+cp IMG_7979.JPG $pwd $folder
+cp IMG_7983.JPG $pwd $folder
+folder=RALPH_LAUREN__-_sukienka_z_majtkami
+mkdir $folder
+cp IMG_7987.JPG $pwd $folder
+cp IMG_7988.JPG $pwd $folder
+cp IMG_7992.JPG $pwd $folder
+cp IMG_7999.JPG $pwd $folder
+folder=RAJSTOPY
+mkdir $folder
+cp IMG_8041.JPG $pwd $folder
+cp IMG_8040.JPG $pwd $folder
+folder=RALPH_LAUREN__-__zloty_TOP
+mkdir $folder
+cp IMG_7738.JPG $pwd $folder
+cp IMG_7739.JPG $pwd $folder
+cp IMG_7734.JPG $pwd $folder
+cp IMG_7730.JPG $pwd $folder
+cp IMG_7732.JPG $pwd $folder
+cp IMG_7737.JPG $pwd $folder
+folder=VERSACE_-__Bluzka
+mkdir $folder
+cp IMG_7767.JPG $pwd $folder
+cp IMG_7784.JPG $pwd $folder
+cp IMG_7785.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-_spodnie_malinowe
+mkdir $folder
+cp IMG_8097.JPG $pwd $folder
+cp IMG_8084.JPG $pwd $folder
+cp IMG_8085.JPG $pwd $folder
+cp IMG_8103.JPG $pwd $folder
+cp IMG_8082.JPG $pwd $folder
+cp IMG_8080.JPG $pwd $folder
+cp IMG_8630.JPG $pwd $folder
+cp IMG_8631.JPG $pwd $folder
+cp IMG_8634.JPG $pwd $folder
+folder=ARMANI_-__zakiet
+mkdir $folder
+cp IMG_8178.JPG $pwd $folder
+cp IMG_8186.JPG $pwd $folder
+cp IMG_8183.JPG $pwd $folder
+cp IMG_8196.JPG $pwd $folder
+cp IMG_8197.JPG $pwd $folder
+folder=ARMANI__-__spodnica
+mkdir $folder
+cp IMG_8198.JPG $pwd $folder
+cp IMG_8187.JPG $pwd $folder
+cp IMG_8193.JPG $pwd $folder
+cp IMG_7608.JPG $pwd $folder
+cp IMG_7610.JPG $pwd $folder
+cp IMG_7612.JPG $pwd $folder
+cp IMG_8201.JPG $pwd $folder
+folder=_X_SWETEREK_GRANATOWY
+mkdir $folder
+cp IMG_8160.JPG $pwd $folder
+cp IMG_8156.JPG $pwd $folder
+cp IMG_8162.JPG $pwd $folder
+cp IMG_8164.JPG $pwd $folder
+folder=TOMMY_HILFIGER_-__bluza_czerwona
+mkdir $folder
+cp IMG_8141.JPG $pwd $folder
+cp IMG_8143.JPG $pwd $folder
+cp IMG_8151.JPG $pwd $folder
+cp IMG_8145.JPG $pwd $folder
+cp IMG_8152.JPG $pwd $folder
+folder=GEOX__-__Buty_[przeniesc]
+mkdir $folder
+cp IMG_8112.JPG $pwd $folder
+cp IMG_8111.JPG $pwd $folder
+cp IMG_8110.JPG $pwd $folder
+cp IMG_8108.JPG $pwd $folder
+folder=gap_-_SWETER_GOLF
+mkdir $folder
+cp IMG_8088.JPG $pwd $folder
+cp IMG_8091.JPG $pwd $folder
+cp IMG_8096.JPG $pwd $folder
+folder=RALPH_LAUREN_-_sweterek_w_paseczki
+mkdir $folder
+cp IMG_7752.JPG $pwd $folder
+cp IMG_7753.JPG $pwd $folder
+cp IMG_7749.JPG $pwd $folder
+cp IMG_9233.JPG $pwd $folder
+cp IMG_9232.JPG $pwd $folder
+cp IMG_9234.JPG $pwd $folder
+cp IMG_9235.JPG $pwd $folder
+cp IMG_9236.JPG $pwd $folder
+folder=GUESS_-__kurtka
+mkdir $folder
+cp IMG_140.JPG $pwd $folder
+cp IMG_144.JPG $pwd $folder
+cp IMG_143.JPG $pwd $folder
+cp IMG_154.JPG $pwd $folder
+folder=HILFIGER__-__RAMPERS_NIEBIESKI_W_PASY
+mkdir $folder
+cp IMG_8211.JPG $pwd $folder
+cp IMG_8219.JPG $pwd $folder
+cp IMG_8216.JPG $pwd $folder
+cp IMG_8217.JPG $pwd $folder
+folder=RALPH_LAUREN_-_pajacyk_rozowy
+mkdir $folder
+cp IMG_8221.JPG $pwd $folder
+cp IMG_8222.JPG $pwd $folder
+cp IMG_8223.JPG $pwd $folder
+cp IMG_8224.JPG $pwd $folder
+cp IMG_8230.JPG $pwd $folder
+cp IMG_8234.JPG $pwd $folder
+folder=RALPH_LAUREN_-__pajacyk_welurowy_rozowy
+mkdir $folder
+cp IMG_8237.JPG $pwd $folder
+cp IMG_8244.JPG $pwd $folder
+cp IMG_8243.JPG $pwd $folder
+cp IMG_8246.JPG $pwd $folder
+cp IMG_8241.JPG $pwd $folder
+cp IMG_8249.JPG $pwd $folder
+cp IMG_8251.JPG $pwd $folder
+folder=RALPH_LAUREN_-_pajacyk_welur_roz_blady
+mkdir $folder
+cp IMG_8266.JPG $pwd $folder
+cp IMG_8269.JPG $pwd $folder
+cp IMG_8271.JPG $pwd $folder
+cp IMG_8272.JPG $pwd $folder
+cp IMG_8274.JPG $pwd $folder
+folder=ralph_lauren_-_pajacyk_welur_roz_2
+mkdir $folder
+cp IMG_8291.JPG $pwd $folder
+cp IMG_8276.JPG $pwd $folder
+cp IMG_8278.JPG $pwd $folder
+cp IMG_8281.JPG $pwd $folder
+cp IMG_8283.JPG $pwd $folder
+cp IMG_8289.JPG $pwd $folder
+folder=RALPH_LAUREN_-_PAJACYK_zielony_welur
+mkdir $folder
+cp IMG_8295.JPG $pwd $folder
+cp IMG_8298.JPG $pwd $folder
+cp IMG_8299.JPG $pwd $folder
+cp IMG_8300.JPG $pwd $folder
+cp IMG_8302.JPG $pwd $folder
+folder=RALPH_LAUREN_-_spiochy_granat_w_pasy
+mkdir $folder
+cp IMG_8317.JPG $pwd $folder
+cp IMG_8307.JPG $pwd $folder
+cp IMG_8312.JPG $pwd $folder
+cp IMG_8313.JPG $pwd $folder
+cp IMG_8318.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__bluzeczka
+mkdir $folder
+cp IMG_8320.JPG $pwd $folder
+cp IMG_8329.JPG $pwd $folder
+cp IMG_8331.JPG $pwd $folder
+cp IMG_8323.JPG $pwd $folder
+cp IMG_8324.JPG $pwd $folder
+folder=RALPH_LAUREN__-__bluza_welur_granat
+mkdir $folder
+cp IMG_8338.JPG $pwd $folder
+cp IMG_8341.JPG $pwd $folder
+cp IMG_8342.JPG $pwd $folder
+cp IMG_8354.JPG $pwd $folder
+folder=BURBERRY__-_koszula_-__3_m
+mkdir $folder
+cp IMG_8355.JPG $pwd $folder
+cp IMG_8358.JPG $pwd $folder
+cp IMG_8360.JPG $pwd $folder
+folder=RALPH_LAUREN_-_koszula_ciemna_krata_1_rok
+mkdir $folder
+cp IMG_8363.JPG $pwd $folder
+cp IMG_8364.JPG $pwd $folder
+cp IMG_8366.JPG $pwd $folder
+cp IMG_8367.JPG $pwd $folder
+cp IMG_8368.JPG $pwd $folder
+folder=TOMMY_HILFIHER__-__koszula_3_lata
+mkdir $folder
+cp IMG_8377.JPG $pwd $folder
+cp IMG_8380.JPG $pwd $folder
+cp IMG_8381.JPG $pwd $folder
+cp IMG_8386.JPG $pwd $folder
+cp IMG_8391.JPG $pwd $folder
+cp IMG_8387.JPG $pwd $folder
+folder=RALPH_LAUREN__-__koszula_w_pasy_4_lata
+mkdir $folder
+cp IMG_8411.JPG $pwd $folder
+cp IMG_8415.JPG $pwd $folder
+cp IMG_8403.JPG $pwd $folder
+cp IMG_8663.JPG $pwd $folder
+cp IMG_8670.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__koszula_w_krate__-_3_lata
+mkdir $folder
+cp IMG_8417.JPG $pwd $folder
+cp IMG_8420.JPG $pwd $folder
+cp IMG_8431.JPG $pwd $folder
+cp IMG_8433.JPG $pwd $folder
+cp IMG_8435.JPG $pwd $folder
+folder=RALPH_LAUREN__-__koszula_-__S
+mkdir $folder
+cp IMG_8440.JPG $pwd $folder
+cp IMG_8451.JPG $pwd $folder
+cp IMG_8454.JPG $pwd $folder
+cp IMG_8456.JPG $pwd $folder
+folder=RALPH_LAUREN__-__koszula_w_pasy__-__18_miesiecy
+mkdir $folder
+cp IMG_8476.JPG $pwd $folder
+cp IMG_8479.JPG $pwd $folder
+cp IMG_8473.JPG $pwd $folder
+cp IMG_8474.JPG $pwd $folder
+cp IMG_8475.JPG $pwd $folder
+folder=CALVIN_KLEIN_-_wiosenno_-_letnia_kurteczka
+mkdir $folder
+cp IMG_8477.JPG $pwd $folder
+cp IMG_8483.JPG $pwd $folder
+cp IMG_8484.JPG $pwd $folder
+cp IMG_8486.JPG $pwd $folder
+cp IMG_8498.JPG $pwd $folder
+folder=CALVIN_KLEIN_-__T_-_shirt
+mkdir $folder
+cp IMG_8505.JPG $pwd $folder
+cp IMG_8509.JPG $pwd $folder
+cp IMG_8511.JPG $pwd $folder
+cp IMG_8525.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__spodnie
+mkdir $folder
+cp IMG_8530.JPG $pwd $folder
+cp IMG_8536.JPG $pwd $folder
+cp IMG_8539.JPG $pwd $folder
+cp IMG_8540.JPG $pwd $folder
+cp IMG_8546.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__koszula_granatowa_3_lata
+mkdir $folder
+cp IMG_8552.JPG $pwd $folder
+cp IMG_8565.JPG $pwd $folder
+cp IMG_8569.JPG $pwd $folder
+cp IMG_8554.JPG $pwd $folder
+cp IMG_8559.JPG $pwd $folder
+cp IMG_8562.JPG $pwd $folder
+folder=RALPH_LAUREN__-__koszula_niebieska__-__2_lata
+mkdir $folder
+cp IMG_8571.JPG $pwd $folder
+cp IMG_8578.JPG $pwd $folder
+cp IMG_8580.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__koszula__-__2_lata
+mkdir $folder
+cp IMG_8583.JPG $pwd $folder
+cp IMG_8589.JPG $pwd $folder
+cp IMG_8592.JPG $pwd $folder
+cp IMG_8593.JPG $pwd $folder
+folder=BURBERRY__-__koszula__-__3_lata
+mkdir $folder
+cp IMG_8609.JPG $pwd $folder
+cp IMG_8610.JPG $pwd $folder
+cp IMG_8616.JPG $pwd $folder
+cp IMG_8614.JPG $pwd $folder
+cp IMG_8618.JPG $pwd $folder
+folder=GAP__-__koszula_czerwona
+mkdir $folder
+cp IMG_8624.JPG $pwd $folder
+cp IMG_8626.JPG $pwd $folder
+cp IMG_8628.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__bluzka__-__4_lata
+mkdir $folder
+cp IMG_8636.JPG $pwd $folder
+cp IMG_8647.JPG $pwd $folder
+cp IMG_8643.JPG $pwd $folder
+cp IMG_8646.JPG $pwd $folder
+folder=BODY_granatowe
+mkdir $folder
+cp IMG_8653.JPG $pwd $folder
+cp IMG_8657.JPG $pwd $folder
+cp IMG_8662.JPG $pwd $folder
+folder=JOOP__-__welurowe_spodnie_ze_swiecacymi_akcentami
+mkdir $folder
+cp IMG_8740.JPG $pwd $folder
+cp IMG_8741.JPG $pwd $folder
+cp IMG_8743.JPG $pwd $folder
+cp IMG_8744.JPG $pwd $folder
+cp IMG_8745.JPG $pwd $folder
+cp IMG_8746.JPG $pwd $folder
+cp IMG_8747.JPG $pwd $folder
+cp IMG_8756.JPG $pwd $folder
+folder=RALPH_LAUREN_-_spodnica_czarna
+mkdir $folder
+cp IMG_8901.JPG $pwd $folder
+cp IMG_8891.JPG $pwd $folder
+cp IMG_8918.JPG $pwd $folder
+cp IMG_8922.JPG $pwd $folder
+folder=GUESS_-__bluzka_z_zabotem
+mkdir $folder
+cp IMG_8757.JPG $pwd $folder
+cp IMG_8758.JPG $pwd $folder
+cp IMG_8764.JPG $pwd $folder
+cp IMG_8765.JPG $pwd $folder
+cp IMG_8769.JPG $pwd $folder
+folder=DIESEL_SPORT__-__kurtka_sportowa
+mkdir $folder
+cp IMG_8804.JPG $pwd $folder
+cp IMG_8801.JPG $pwd $folder
+cp IMG_8803.JPG $pwd $folder
+cp IMG_8808.JPG $pwd $folder
+cp IMG_8817.JPG $pwd $folder
+cp IMG_8819.JPG $pwd $folder
+folder=Dolce_and_Gabanna__-__ciekawe_spodnie
+mkdir $folder
+cp IMG_8926.JPG $pwd $folder
+cp IMG_8935.JPG $pwd $folder
+cp IMG_8949.JPG $pwd $folder
+cp IMG_8936.JPG $pwd $folder
+cp IMG_8942.JPG $pwd $folder
+folder=DIOR_-_2_koszulki_polo
+mkdir $folder
+cp IMG_8955.JPG $pwd $folder
+cp IMG_8957.JPG $pwd $folder
+cp IMG_8958.JPG $pwd $folder
+cp IMG_8959.JPG $pwd $folder
+cp IMG_0645.x.JPG $pwd $folder
+folder=CALVIN_-_klein_sukieneczka
+mkdir $folder
+cp IMG_8965.JPG $pwd $folder
+cp IMG_8969.JPG $pwd $folder
+cp IMG_8971.JPG $pwd $folder
+cp IMG_8973.JPG $pwd $folder
+folder=RALPH_LAUREN_-__kamizelka
+mkdir $folder
+cp IMG_8991.JPG $pwd $folder
+cp IMG_9002.JPG $pwd $folder
+cp IMG_1079.x.JPG $pwd $folder
+cp IMG_0849.x.JPG $pwd $folder
+cp IMG_0701.x.JPG $pwd $folder
+cp IMG_0722.x.JPG $pwd $folder
+cp IMG_0718.x.JPG $pwd $folder
+cp IMG_9005.JPG $pwd $folder
+cp IMG_9007.JPG $pwd $folder
+folder=RALPH_LAUREN__-__kurteczka
+mkdir $folder
+cp IMG_9023.JPG $pwd $folder
+cp IMG_9025.JPG $pwd $folder
+cp IMG_9037.JPG $pwd $folder
+cp IMG_9036.JPG $pwd $folder
+cp IMG_0753.x.JPG $pwd $folder
+cp IMG_9250.JPG $pwd $folder
+cp IMG_9251.JPG $pwd $folder
+cp IMG_9249.JPG $pwd $folder
+folder=GAP__-__rozowa_spodnica
+mkdir $folder
+cp IMG_7659.x.JPG $pwd $folder
+cp IMG_7660.x.JPG $pwd $folder
+cp IMG_7662.x.JPG $pwd $folder
+cp IMG_7663.x.JPG $pwd $folder
+cp IMG_8602.JPG $pwd $folder
+cp IMG_9556.JPG $pwd $folder
+folder=RALPH_LAUREN__-__sweterek_granatowy
+mkdir $folder
+cp IMG_7935.x.JPG $pwd $folder
+cp IMG_9122.JPG $pwd $folder
+cp IMG_9124.JPG $pwd $folder
+cp IMG_9125.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__sweterek_granatowy
+mkdir $folder
+cp IMG_9826.x.JPG $pwd $folder
+cp IMG_9738.x.JPG $pwd $folder
+cp IMG_8368.x.JPG $pwd $folder
+cp IMG_8730.x.JPG $pwd $folder
+cp IMG_8521.x.JPG $pwd $folder
+cp IMG_8523.x.JPG $pwd $folder
+cp IMG_8556.x.JPG $pwd $folder
+cp IMG_9184.JPG $pwd $folder
+cp IMG_9186.JPG $pwd $folder
+cp IMG_9187.JPG $pwd $folder
+cp IMG_9188.JPG $pwd $folder
+cp IMG_9826.JPG $pwd $folder
+folder=GAP__-__bluzeczka_z_papugami
+mkdir $folder
+cp IMG_8505.x.JPG $pwd $folder
+cp IMG_8509.x.JPG $pwd $folder
+cp IMG_9112.JPG $pwd $folder
+cp IMG_9113.JPG $pwd $folder
+cp IMG_9115.JPG $pwd $folder
+cp IMG_9116.JPG $pwd $folder
+cp IMG_9118.JPG $pwd $folder
+cp IMG_9278.JPG $pwd $folder
+cp IMG_9281.JPG $pwd $folder
+cp IMG_9283.JPG $pwd $folder
+cp IMG_9288.JPG $pwd $folder
+cp IMG_9289.JPG $pwd $folder
+cp IMG_9292.JPG $pwd $folder
+folder=ROZNE
+mkdir $folder
+cp IMG_0622.x.JPG $pwd $folder
+cp IMG_0541.x.JPG $pwd $folder
+cp IMG_0650.x.JPG $pwd $folder
+cp IMG_0658.x.JPG $pwd $folder
+cp IMG_0660.x.JPG $pwd $folder
+cp IMG_0805.x.JPG $pwd $folder
+cp IMG_1093.x.JPG $pwd $folder
+cp IMG_1145.x.JPG $pwd $folder
+cp IMG_1184.x.JPG $pwd $folder
+cp IMG_1179.x.JPG $pwd $folder
+cp IMG_7079.x.JPG $pwd $folder
+cp IMG_7278.x.JPG $pwd $folder
+cp IMG_7078.x.JPG $pwd $folder
+cp IMG_9776.x.JPG $pwd $folder
+cp IMG_7327.x.JPG $pwd $folder
+cp IMG_7328.x.JPG $pwd $folder
+cp IMG_7329.x.JPG $pwd $folder
+cp IMG_7327.x.JPG $pwd $folder
+cp IMG_7367.x.JPG $pwd $folder
+cp IMG_7446.x.JPG $pwd $folder
+cp IMG_7475.x.JPG $pwd $folder
+cp IMG_7551.x.JPG $pwd $folder
+cp IMG_7940.x.JPG $pwd $folder
+cp IMG_7140.x.JPG $pwd $folder
+cp IMG_8451.x.JPG $pwd $folder
+cp IMG_8602.x.JPG $pwd $folder
+cp IMG_9137.x.JPG $pwd $folder
+cp IMG_9141.x.JPG $pwd $folder
+cp IMG_9142.x.JPG $pwd $folder
+cp IMG_9150.x.JPG $pwd $folder
+cp IMG_9556.x.JPG $pwd $folder
+cp IMG_9733.x.JPG $pwd $folder
+folder=KENZO__-__sukieneczka
+mkdir $folder
+cp IMG_9106.JPG $pwd $folder
+cp IMG_9109.JPG $pwd $folder
+cp IMG_9110.JPG $pwd $folder
+cp IMG_9111.JPG $pwd $folder
+cp IMG_9100.JPG $pwd $folder
+cp IMG_9096.JPG $pwd $folder
+cp IMG_9098.JPG $pwd $folder
+folder=WINDSOR__-__zakiet
+mkdir $folder
+cp IMG_9128.JPG $pwd $folder
+cp IMG_9131.JPG $pwd $folder
+cp IMG_9132.JPG $pwd $folder
+cp IMG_9133.JPG $pwd $folder
+cp IMG_9134.JPG $pwd $folder
+cp IMG_9135.JPG $pwd $folder
+cp IMG_9137.JPG $pwd $folder
+cp IMG_9140.JPG $pwd $folder
+cp IMG_9142.JPG $pwd $folder
+folder=GUESS__-__spodenki_welurowe
+mkdir $folder
+cp IMG_9151.JPG $pwd $folder
+cp IMG_9150.JPG $pwd $folder
+cp IMG_9149.JPG $pwd $folder
+cp IMG_9155.JPG $pwd $folder
+cp IMG_9157.JPG $pwd $folder
+cp IMG_9153.JPG $pwd $folder
+cp IMG_9156.JPG $pwd $folder
+cp IMG_9297.JPG $pwd $folder
+cp IMG_9298.JPG $pwd $folder
+cp IMG_9304.JPG $pwd $folder
+cp IMG_9307.JPG $pwd $folder
+folder=GAP__-__2lata__-__spodenki_dzinsowe
+mkdir $folder
+cp IMG_9158.JPG $pwd $folder
+cp IMG_9159.JPG $pwd $folder
+cp IMG_9160.JPG $pwd $folder
+cp IMG_9164.JPG $pwd $folder
+cp IMG_9169.JPG $pwd $folder
+cp IMG_9171.JPG $pwd $folder
+cp IMG_9172.JPG $pwd $folder
+folder=GAP__-__spodenki_dziwnsowe_18_-_24
+mkdir $folder
+cp IMG_9174.JPG $pwd $folder
+cp IMG_9176.JPG $pwd $folder
+cp IMG_9177.JPG $pwd $folder
+cp IMG_9179.JPG $pwd $folder
+folder=OSKOSKH__-__sweterk_szary_cekiny
+mkdir $folder
+cp IMG_9190.JPG $pwd $folder
+cp IMG_9196.JPG $pwd $folder
+cp IMG_9195.JPG $pwd $folder
+cp IMG_9194.JPG $pwd $folder
+cp IMG_9191.JPG $pwd $folder
+folder=KENZO__-__skarpety_i_spodnie_malinowe
+mkdir $folder
+cp IMG_9203.JPG $pwd $folder
+cp IMG_9198.JPG $pwd $folder
+cp IMG_9201.JPG $pwd $folder
+cp IMG_9204.JPG $pwd $folder
+cp IMG_9201.JPG $pwd $folder
+cp IMG_9309.JPG $pwd $folder
+cp IMG_9310.JPG $pwd $folder
+cp IMG_9312.JPG $pwd $folder
+cp IMG_9315.JPG $pwd $folder
+folder=GAP__-__bluzeczka__plus__legginsy_granatowe
+mkdir $folder
+cp IMG_9207.JPG $pwd $folder
+cp IMG_9208.JPG $pwd $folder
+cp IMG_9210.JPG $pwd $folder
+cp IMG_9211.JPG $pwd $folder
+folder=RALPH_LAUREN__-__buciki
+mkdir $folder
+cp IMG_9214.JPG $pwd $folder
+cp IMG_9216.JPG $pwd $folder
+cp IMG_9221.JPG $pwd $folder
+cp IMG_9224.JPG $pwd $folder
+cp IMG_9229.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__spodenki_nowe
+mkdir $folder
+cp IMG_9237.JPG $pwd $folder
+cp IMG_9240.JPG $pwd $folder
+cp IMG_9241.JPG $pwd $folder
+cp IMG_9246.JPG $pwd $folder
+cp IMG_9247.JPG $pwd $folder
+folder=MEXX__-__spodenki_rozowe
+mkdir $folder
+cp IMG_9257.JPG $pwd $folder
+cp IMG_9258.JPG $pwd $folder
+folder=spodniczka_w_motyle
+mkdir $folder
+cp IMG_9259.JPG $pwd $folder
+folder=DKNY__-__bluzeczka
+mkdir $folder
+cp IMG_9326.JPG $pwd $folder
+cp IMG_9327.JPG $pwd $folder
+cp IMG_9331.JPG $pwd $folder
+cp IMG_9333.JPG $pwd $folder
+folder=CALVIN_KLEIN__-__bluza
+mkdir $folder
+cp IMG_9512.JPG $pwd $folder
+cp IMG_9515.JPG $pwd $folder
+cp IMG_9516.JPG $pwd $folder
+cp IMG_9594.JPG $pwd $folder
+cp IMG_9501.JPG $pwd $folder
+cp IMG_9507.JPG $pwd $folder
+cp IMG_9508.JPG $pwd $folder
+cp IMG_9511.JPG $pwd $folder
+folder=NEXT__-__sweterek_w_paseczki
+mkdir $folder
+cp IMG_9523.JPG $pwd $folder
+cp IMG_9524.JPG $pwd $folder
+cp IMG_9530.JPG $pwd $folder
+cp IMG_9532.JPG $pwd $folder
+cp IMG_9536.JPG $pwd $folder
+cp IMG_9548.JPG $pwd $folder
+cp IMG_9550.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__spodnica_czerwona
+mkdir $folder
+cp IMG_9559.JPG $pwd $folder
+cp IMG_9566.JPG $pwd $folder
+cp IMG_9567.JPG $pwd $folder
+cp IMG_9576.JPG $pwd $folder
+cp IMG_9574.JPG $pwd $folder
+folder=NIKE__-__sliniaki__plus__gratisy
+mkdir $folder
+cp IMG_9262.JPG $pwd $folder
+cp IMG_9265.JPG $pwd $folder
+cp IMG_9266.JPG $pwd $folder
+cp IMG_9271.JPG $pwd $folder
+cp IMG_9275.JPG $pwd $folder
+folder=GAP__-__spodenki_dresowe
+mkdir $folder
+cp IMG_9316.JPG $pwd $folder
+cp IMG_9322.JPG $pwd $folder
+cp IMG_9323.JPG $pwd $folder
+cp IMG_9317.JPG $pwd $folder
+folder=ARMANI__-__spodnie
+mkdir $folder
+cp IMG_9336.JPG $pwd $folder
+cp IMG_9337.JPG $pwd $folder
+cp IMG_9339.JPG $pwd $folder
+cp IMG_9341.JPG $pwd $folder
+cp IMG_9343.JPG $pwd $folder
+cp IMG_9345.JPG $pwd $folder
+cp IMG_9348.JPG $pwd $folder
+cp IMG_9349.JPG $pwd $folder
+cp IMG_9350.JPG $pwd $folder
+folder=KENZO__-__sukienka_w_kwiaty__-__6_lat
+mkdir $folder
+cp IMG_9383.JPG $pwd $folder
+cp IMG_9376.JPG $pwd $folder
+cp IMG_9401.JPG $pwd $folder
+cp IMG_9403.JPG $pwd $folder
+cp IMG_9404.JPG $pwd $folder
+cp IMG_9405.JPG $pwd $folder
+cp IMG_9388.JPG $pwd $folder
+cp IMG_9411.JPG $pwd $folder
+cp IMG_9415.JPG $pwd $folder
+cp IMG_9420.JPG $pwd $folder
+cp IMG_9428.JPG $pwd $folder
+cp IMG_9434.JPG $pwd $folder
+cp IMG_9379.JPG $pwd $folder
+folder=TOMMY_HILFIGER__-__czerwony_golfik
+mkdir $folder
+cp IMG_9442.JPG $pwd $folder
+cp IMG_9443.JPG $pwd $folder
+cp IMG_9444.JPG $pwd $folder
+cp IMG_9452.JPG $pwd $folder
+cp IMG_9456.JPG $pwd $folder
+cp IMG_9458.JPG $pwd $folder
+cp IMG_9461.JPG $pwd $folder
+folder=BURBERRY__-__polo_koszula
+mkdir $folder
+cp IMG_9468.JPG $pwd $folder
+cp IMG_9474.JPG $pwd $folder
+cp IMG_9476.JPG $pwd $folder
+cp IMG_9477.JPG $pwd $folder
+folder=ST_MICHAEL__-__MARKS_AND_SPENCER__-__sweterek
+mkdir $folder
+cp IMG_9483.JPG $pwd $folder
+cp IMG_9484.JPG $pwd $folder
+cp IMG_9488.JPG $pwd $folder
+cp IMG_9491.JPG $pwd $folder
+cp IMG_.JPG $pwd $folder
+cp IMG_.JPG $pwd $folder
